@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Corant or weekely newes, from Italy, Germany, Hungaria, Polonia, Bohemia, France, and the Low-Countries</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1621</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14979</idno>
+            <idno type="STC">STC 18507.35</idno>
+            <idno type="STC">ESTC S119555</idno>
+            <idno type="EEBO-CITATION">99854762</idno>
+            <idno type="PROQUEST">99854762</idno>
+            <idno type="VID">177360</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14979)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177360)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1133:7y)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Corant or weekely newes, from Italy, Germany, Hungaria, Polonia, Bohemia, France, and the Low-Countries</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N. B[utter] October the 22. 1621. Out of the High-Dutch coppy,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1621]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title. Printer's name from STC.</note>
+                  <note>Formerly STC 5748.</note>
+                  <note>Identified as STC 5748b on UMI microfilm.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Bound and filmed with other issues.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  History --  1517-1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="news">
+            <pb facs="tcp:177360:1"/>
+            <head>CORANT OR WEEKELY NEWES, FROM ITALY, GERMANY, Hungaria, Polonia, Bohemia, France, and the Low-Countries.</head>
+            <div type="entry">
+               <head>From Rome the 21. of September. 1621.</head>
+               <p>YEſterday Cardinall <hi>Bellarmine</hi> died, whoſe bo<g ref="char:EOLhyphen"/>dy was carried into the Ieſuites Church, and his <hi>Exequies</hi> this day performed by the Cardinals: hee is much lamented in reſpect of his great vertue and learning.</p>
+               <p>The Quéene of Spaine is yet ſicke. The Car<g ref="char:EOLhyphen"/>dinall of Lerma was condemned to be tortured, and <hi>1000.</hi> péeces of gold of <hi>4</hi> crownes the peece, ta<g ref="char:EOLhyphen"/>ken from him.</p>
+            </div>
+            <div type="entry">
+               <head>From Venice the 24. of September. 1621.</head>
+               <p>There are <hi>12000.</hi> Nepolitaines ſent to Valto<g ref="char:EOLhyphen"/>lina, and the Switzers and Griſons haue taken the new fortes, and the towne of Wormin.</p>
+               <p>The money that the King of Spaine ſent to the Emperour, is conuoyed thither by cerlaine Spa<g ref="char:EOLhyphen"/>niſh Souldiers.</p>
+               <p>The Cardinall of Delphin and the Marquis of Cobren, French Ambaſſadours, are come hither, whoſe requeſt vnts this Signiory is, to permit the Ieſuites to reſide here.</p>
+               <p>The Turke with all his army marcheth toward Lembergh in Ruſſia, and the Muſcouites begin to inuade Poland: whereupon a generall muſter is made throughout Poland, and it is ſaid that the young Prince of Poland is gone into the field with an army of <hi>100000.</hi> men.</p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 29. of September. 1621.</head>
+               <p>
+                  <hi>Bethlem Gabor</hi> and the Marquis of Iagerenſ<g ref="char:EOLhyphen"/>dorp with their armie being gone from Tirnaw, &amp; paſt ouer wittenbergh towards the Merke, and there haue taken in two or thrée places. Therefore our army in the Schut alſo is as this day to breake vp, and is to march vnder Heimburgh, ouer the riuer of Donaw, about the Marke towards Morig and Godingh, where the treaty of peace ſhall bée handled. There are Ambaſſadours come hither from Budiant to ſéeke for peace, whoſe men daily doe great miſchiefe behind Newſtadt, and haue burnt and done great hurt by killing and leading captiues away diuers poore people euen to Sem<g ref="char:EOLhyphen"/>meringh hard by Stiermarke, but for that certaine aduice is come hither, that the agréement with <hi>Mansfield</hi> is ſully made, the Hungarians will ea<g ref="char:EOLhyphen"/>ſily be brought into ſubiection, either againſt their wils, or be compelled thereunto by a hard condi<g ref="char:EOLhyphen"/>tion of peace. <hi>Mansfield</hi> is legitimated, the bane publiſhed againſt him, diſanulled, and <hi>400000.</hi> Floring payd him. The execution againſt the vp<g ref="char:EOLhyphen"/>per Palatinate procéedeth forward</p>
+               <p>For that at this preſent, for certaine dayes to<g ref="char:EOLhyphen"/>gether, it hath béene very quiet and peaceable here about this towne, and that our Souldiers with great ſacks haue gone out into the Vine hils, the Towneſmen and other Merchants of the wines in the country were conſtrained, notwithſtanding that the wines are not yet ripe, to cut them downe before the time. The plague and great dearth be<g ref="char:EOLhyphen"/>gins here alſo to encreaſe.</p>
+               <p>Yeſterday we had newes that <hi>Bethlem Gabors</hi> forces march towards Morauia, and haue taken Stragnitz, Stagnitz, and another towne; and Co<g ref="char:EOLhyphen"/>lonell van Walſtein, that was left there to defend the paſſage is ouercome, and is forced to retire, and that <hi>Budiani</hi> with his forces of Hungarians and Turkes, is gone to Odenburgh, which towne he threatneth to aſſayle.</p>
+               <p>That the Marquis of Iagherenſdorp hath writ<g ref="char:EOLhyphen"/>ten vnto the Archduke <hi>Carel,</hi> and deſired that hée would be a meanes to procure peace to be made within thrée wéekes, or elſe that the Turke hath determined to ayd <hi>Bethlem Gabor</hi> with <hi>50000.</hi> men, and that <hi>12000.</hi> Turkes lye ready at Caniſa <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aying onely for commiſſion: notwithſtanding, newes comes this day, that the Marquis of Ia<g ref="char:EOLhyphen"/>gerenſdorp with <hi>18000.</hi> men is againe on the way to Nahot in Sileſia, to whom a great number of Wallouns in the Prouince of Olmitz and other country people, with many maſterleſſe Souldiers, are ioyned, and that he kils all that he méets with<g ref="char:EOLhyphen"/>all that will not yéeld vnto him.</p>
+               <p>There is newes alſo this day come from O<g ref="char:EOLhyphen"/>denburgh, that about <hi>600.</hi> of the Emperours ſoul<g ref="char:EOLhyphen"/>diers that went out for forrage to Niewſiedel on the Sea, were met with by the Hungarians, and all ſlaine &amp; put to the ſword, onely <hi>50.</hi> that eſcaped.</p>
+            </div>
+            <div type="entry">
+               <head>From Vienna the 30. of September. 1621.</head>
+               <p>For that the plague ſtill encreaſeth in Rauenſ<g ref="char:EOLhyphen"/>burgh, the Lords formerly named, are ridden to Nichelſburgh in Morauia, where the Cardinall of Dieterichſtein lieth, to begin the treaty of peace with the Hungarians, and this day the Archduke Carel is gone from hence to News in his bi<g ref="char:EOLhyphen"/>ſhopricke.</p>
+               <p>
+                  <hi>Bethlem Gabor</hi> with <hi>15000.</hi> men marcheth ouer Wittenbergh to the Marquis of Iagerenſdorp, whereupon great haſt is made of the ſhip bride at Heimburgh, that the Emperors army may goe a<g ref="char:EOLhyphen"/>uer, and make reſiſtance againſt <hi>Bethlem Gabor,</hi> and the Budiani, who ſtill continue burning and waſting the country.</p>
+               <p>There are great numbers of red mice here in this country, that dee great hurt to the Corne on the Land and in the barne.</p>
+            </div>
+            <div type="entry">
+               <head>From Cracow the 15. of September. 1621.</head>
+               <p>From Wallachia we heare that the Turke and our army lye but a mile one from the other, and that the Turke is <hi>400000</hi> &amp; our army but <hi>100000.</hi> ſtrong, and yet feare him not, and the King of Po<g ref="char:EOLhyphen"/>land himſelfe in perſon, with all the Lords and Gentlemen of the Country of Podolia is gone by a backe way to the other armie in Wallachia, ſo that ſpéedily we hope for a victory.</p>
+               <p>The Dutch ſouldiers die here in great numbers by reaſon of the ayre hereabouts.</p>
+            </div>
+            <div type="entry">
+               <head>From Bundten the 25. of September. 1621.</head>
+               <p>The <hi>3.</hi> common confederate cantons are aſſem<g ref="char:EOLhyphen"/>bled together at Chur, with whom alſo the Trea<g ref="char:EOLhyphen"/>ſurer of France hath béene, and there ſéeke to con<g ref="char:EOLhyphen"/>firme their confederacy, notwithſtanding that the French Treaſurer earneſtly deſired them firſt to heare the Spaniſh Articles, but notwithſtanding they procéeded therein, and concluded that all thoſe that deſired to ayd and defend their natine country
+<pb facs="tcp:177360:2"/>and to maintaine their priuiledges, they ſhould foyne with them, and thereupon <hi>12.</hi> comunalities are ioyned with them, and it was preſently conclu<g ref="char:EOLhyphen"/>ded, that forthwith, and with all their power and forces they ſhould ioyne together to inuade the ene<g ref="char:EOLhyphen"/>my, as they already haue begun, to fortifie them<g ref="char:EOLhyphen"/>ſelues, and daily more forces ioyne with them.</p>
+            </div>
+            <div type="entry">
+               <head>From Chur in Zwitzerland the 25. of Sept. 1621.</head>
+               <p>It is certified, that for that certaine thouſand Engedieners are gone to that towne. Guffier the French Ambaſſador went from thence in great haſt, fearing to be taken priſoner.</p>
+            </div>
+            <div type="entry">
+               <head>From Neiwmarke the 2. of October. 1621.</head>
+               <p>We haue a great number of men here, but while the Generall, the Earle of Mansfied is here, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> are ſecure enough, but God knowes what will bee done when he goes hence.</p>
+               <p>Here in this Country all is ſpolyed, for Mans<g ref="char:EOLhyphen"/>fields army with his ordinance is come hither, where they due much hurt, and for that all the peo<g ref="char:EOLhyphen"/>ple of <hi>40.</hi> villages, with their wiues and children, are fled and gone away, the Souldiers threſh the corne and ſpoile all. It is ſaid that the Duke of Ba<g ref="char:EOLhyphen"/>uaria with his army comes hitherward, in the meane time the treaty continues, and for that the Earle of Mansfield hath his Deputies with the Duke of Bauariaes Deputies at Cam, there are ſome Deputies there for the Church Miniſters of the Palatinate, but becauſe the treaty ſéemes not to proceed, we know not whither the Earle of Mansfield will goe with his army.</p>
+               <p>The Souldiers that lay in Cam, complaine that promiſe being made vnto them, that they ſhould goe fréely away with bagge and baggage, as they went forth the Barvarian Carrabines fell vpon them, and tooke all that they had from them, and ſlew the Skammerſdorp Muſquetiers, that with<g ref="char:EOLhyphen"/>ſtood them.</p>
+            </div>
+            <div type="entry">
+               <head>From Spiers the 5. of October 1621.</head>
+               <p>All the moueables and handicraſtſmen in Ger<g ref="char:EOLhyphen"/>mertheim are carried and gone away from thence.</p>
+               <p>On Friday the Spaniards marched to Keiſers Louteren, and on Sunday after tooke it, againſt the which they ſhot <hi>11.</hi> times with their great ordi<g ref="char:EOLhyphen"/>nance, and will haue the towne pay <hi>1000.</hi> dollors for euery ſhot, from whence they went to Turke<g ref="char:EOLhyphen"/>heim, and haue ſent commiſſioners to Niewſtadt, to open the paſſage (which before they held ſhut) vnto them.</p>
+               <p>We heare from Paris, that a great tumult hath happened therein, for that diuers fauourites of the Duke <hi>de Mayens</hi> that was kild before Montaubon being much griened for the death of that great man, with a great number of Sudents and other com<g ref="char:EOLhyphen"/>mon people, went to Charenton, to be reuenged for the ſame vpon thoſe of the religion, and there met together as they were comming bark, and that if it had not bin for the Duke of Monbaſon gouer<g ref="char:EOLhyphen"/>nour of Paris, and other Officers of Iuſtice that hindred them, there would haue béene a great mur<g ref="char:EOLhyphen"/>ther done, but they forcibly kept them backe, yet there was about <hi>8.</hi> perſons ſlaine on both ſides, and <hi>8.</hi> taken priſoners: and yet when they were parted, the people ranne to Charenton, and there burnt the Church and the Library. On Monday af<g ref="char:EOLhyphen"/>ter there happened another quarrell betweene a Combe-maker and his ſonne, whereby ſome men were ſlaine, whereupon the Magiſtrates fearing that if ſuch things fell out, there would be a gene<g ref="char:EOLhyphen"/>rall vprore in the towne, commanding the Burgers to look well vnto their ſeuerall wards, which being done, the trouble ceaſed. On Tueſday there were two hangd, that were ſome of the beginners there<g ref="char:EOLhyphen"/>of, and the reupon a Proclamation was made, that no man ſhould moleſt thoſe of the religion, as you may reade in the ſaid Proclamation.</p>
+               <p>From Coninxburgh we vnderſtand, that the good newes touching the King of Poland, fals out contrary, and wée are certified, that there are cer<g ref="char:EOLhyphen"/>taine thouſand Polanders ſlaine, that the Prince of Poland is incloſed by the Turkes, as alſo that the King himſelfe with a great power was gone to relieue him. The King is gone from Warſon to Marlenburgh. It is alſo reported that the Tar<g ref="char:EOLhyphen"/>tarians are already about Lublin.</p>
+               <p>From Riga we vnderſtand that vpon the <hi>26.</hi> of September, the ſaid towne vpon agréement made, yéelded to the King of Swethland, that hath per<g ref="char:EOLhyphen"/>mitted all the Burgers to poſſeſſe all that they hane without any hindrance, and whatſoeuer he pro<g ref="char:EOLhyphen"/>miſed to their contentments was performed. That from thence hee went to Cockenhauſen with his army, and had commanded the Ruſſians to carry all their Merchandiſes to Riga, as they did before, vpon paine of further incurſion.</p>
+               <p>From the Prince of Oranges campe, it is writ<g ref="char:EOLhyphen"/>ten, that there is no great matter done on either ſide as yet, but that our men haue taken ſome of the enemis horſes, which by ſound of Drum were with their bridles and ſadles ſold good cheape, and that the Prince of Orange with diuers Lords, was gone downe the Rhine to Emerick, and there right ouer againſt the towne vpon the Véer, by certaine Engeniers hath cauſed a ſconſe or fort to be begun, greater then that which is made ouer againſt Rées, which already is very forward.</p>
+               <p>There are ſome Lords of Colen come hither into our army, vnto the Prince, what their intent is we know not, it is thought they would haue their Nowtraletie continued, and alſo about ſome acti<g ref="char:EOLhyphen"/>ons touching Papenmutz, which troubles them ſomewhat.</p>
+               <p>From Gulick, we heare, that they within not long ſince haue made two ſallies out of the towne, and haue fought couragiouſly together, that our men haue taken one of their ſconſes and beaten it downe; that two of our Captaines were ſlaine, and many horſe and footmen on the enemies ſide.</p>
+               <p>Laſt Monday the <hi>11.</hi> of this Month, all our horſemen ſtood together in the field by Rées, be<g ref="char:EOLhyphen"/>twéene Millum and Rées in order of Battaile, all armed, with their Captaines at the head of each Cornet, and the footmen alſo each one in their quarter ſtood alſo in armes.</p>
+               <p>Prince Henerickes quarter by miſfortune was ſet on fire.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London Printed for N. B. October the 22. 1621. Out of the High-Dutch Copy.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
